@@ -1,8 +1,8 @@
 [commit]
-	gpgsign = true
+	gpgsign = false
 
 [tag]
-	gpgsign = true
+	gpgsign = false
 
 [gpg]
 	program = /usr/local/bin/gpg
